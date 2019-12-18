@@ -9,4 +9,4 @@ end
 new_array 
 end 
 
-my_collect(array)
+my_collect()
